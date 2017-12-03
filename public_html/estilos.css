@@ -1,0 +1,77 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29-nov-2017, 22:47:12
+    Author     : Alfredo
+*/
+ul li{
+    list-style-type: none;
+    display: inline;
+     font-size: 24px;
+     background: #3BAEEC;
+     padding:15px;
+     border-radius: 15px;
+
+}
+#Logo{
+    text-align: inherit;
+    font-size: 39px;
+    background-color:#3BAEEC;
+}
+#cabecera{
+   text-align: center;
+   font-family: Calibri;
+   color: #3BAEEC; 
+}
+#menu{
+     text-align: center;
+}
+
+#cuerpo{
+    text-align: center;
+    font-family: Calibri;
+    font-size: 20px;
+    
+}
+#pie{
+    text-align: center;
+    background: #3BAEEC;
+    font-size: 15px;
+    color: #3C424A;  
+}
+form{
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+#formulario h1 { text-align: center; 
+ list-style-type: none;
+    display: inline;
+     font-size: 24px;
+     background: #3BAEEC;
+     padding:15px;
+     border-radius: 15px;
+
+
+}
+
+
+label{
+    display: inline-block;
+    width: 200px;
+    text-align: left;   
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+input,textarea{
+   width: 300px;
+   font: 1em cursive;
+   border: 1px solid black;
+}
